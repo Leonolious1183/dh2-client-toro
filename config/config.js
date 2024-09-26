@@ -18,8 +18,8 @@ Config.whitelist = [
 // `defaultserver` specifies the server to use when the domain name in the
 // address bar is `Config.routes.client`.
 Config.defaultserver = {
-	id: 'dragonheaven',
-	host: 'localhost',
+	id: 'ToroShowdown',
+	host: 'server.toro-league.com',
 	port: 8000,
 	httpport: 8000,
 	altport: 80,
